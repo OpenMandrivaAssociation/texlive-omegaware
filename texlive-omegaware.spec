@@ -1,12 +1,12 @@
-# revision 23089
+# revision 26689
 # category TLCore
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-omegaware
-Version:	20111103
-Release:	2
+Version:	20120808
+Release:	1
 Summary:	TeXLive omegaware package
 Group:		Publishing
 URL:		http://tug.org/texlive
