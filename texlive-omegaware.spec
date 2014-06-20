@@ -1,12 +1,12 @@
-# revision 29764
+# revision 33736
 # category TLCore
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-omegaware
-Version:	20131010
-Release:	6
+Version:	20140620
+Release:	1
 Summary:	TeXLive omegaware package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -25,7 +25,6 @@ TeXLive omegaware package.
 %files
 %doc %{_mandir}/man1/odvicopy.1*
 %doc %{_texmfdistdir}/doc/man/man1/odvicopy.man1.pdf
-%doc %{_texmfdistdir}/doc/man/man1/odvips.man1.pdf
 %doc %{_mandir}/man1/odvitype.1*
 %doc %{_texmfdistdir}/doc/man/man1/odvitype.man1.pdf
 %doc %{_mandir}/man1/ofm2opl.1*
