@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-omegaware
-Version:	20140620
-Release:	4
+Version:	20171114
+Release:	1
 Summary:	TeXLive omegaware package
 Group:		Publishing
 URL:		http://tug.org/texlive
