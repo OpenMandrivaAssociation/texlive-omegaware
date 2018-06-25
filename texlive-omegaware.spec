@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-omegaware
-Version:	20171114
+Version:	20180331
 Release:	1
 Summary:	TeXLive omegaware package
 Group:		Publishing
