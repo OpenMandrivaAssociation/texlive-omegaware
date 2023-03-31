@@ -1,6 +1,6 @@
 Name:		texlive-omegaware
 Version:	62517
-Release:	1
+Release:	2
 Summary:	TeXLive omegaware package
 Group:		Publishing
 URL:		http://tug.org/texlive
