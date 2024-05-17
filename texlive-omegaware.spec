@@ -1,5 +1,5 @@
 Name:		texlive-omegaware
-Version:	66186
+Version:	70015
 Release:	1
 Summary:	TeXLive omegaware package
 Group:		Publishing
